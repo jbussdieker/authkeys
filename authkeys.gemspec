@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Joshua B. Bussdieker"]
   spec.email         = ["jbussdieker@gmail.com"]
   spec.summary       = %q{Manage authorized keys files}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/jbussdieker/authkeys"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
